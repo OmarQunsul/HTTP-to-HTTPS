@@ -9,7 +9,7 @@ Docker Image with Nginx for HTTP to HTTPS Redirection
 
 ```bash
 docker pull omarqunsul/http-to-https
-docker run --rm -p 5000:80 omarqunsul/http-to-https
+docker run --rm -p 5000:80 omarqunsul/http-to-https:0.1
 
 curl http://localhost:5000/foobar
 ```
