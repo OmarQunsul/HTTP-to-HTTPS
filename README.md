@@ -15,3 +15,5 @@ curl http://localhost:5000/foobar
 ```
 
 You should get redirection to `https://....`
+
+Omar
