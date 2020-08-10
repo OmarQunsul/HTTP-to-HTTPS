@@ -16,4 +16,4 @@ curl http://localhost:5000/foobar
 
 You should get redirection to `https://....`
 
-Omar
+[Omar Qunsul](https://www.qunsul.com)
